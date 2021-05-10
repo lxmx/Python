@@ -23,8 +23,7 @@
   ```
   source ~/path/to/bbndk/bbndk_env.sh
   cd Python-3
-  ./host.build
-  ./nto-armv7.build
+  ./build.sh
   ```
 
 #### Running on Berrymuch
